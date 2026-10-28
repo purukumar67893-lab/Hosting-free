@@ -1,0 +1,6 @@
+{
+  "name": "HOSTBANGER FREE DOMAIN - Get Your Free Website Address!",
+  "description": "Get your free website domain! Choose your website name, publish static websites with Cloudflare Pages, and share your free public URL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
